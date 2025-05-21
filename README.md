@@ -1,4 +1,4 @@
-This project detects fake news using Natural Language Processing (NLP) and Machine Learning. It processes news text with TF-IDF vectorization and trains a PassiveAggressiveClassifier to classify news as "FAKE" or "REAL". The model achieves high accuracy and can predict the authenticity of custom news input.
+
 
 import pandas as pd
 import numpy as np
